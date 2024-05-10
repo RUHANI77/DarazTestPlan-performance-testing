@@ -1,0 +1,451 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1715376388229,45458,HTTP Request,200,OK,Thread Group 1-3,text,true,,1154603,118,50,50,https://www.daraz.com.bd/,339,0,251
+1715376388630,55972,HTTP Request,200,OK,Thread Group 1-7,text,true,,1154596,118,49,49,https://www.daraz.com.bd/,2712,0,241
+1715376388330,58776,HTTP Request,200,OK,Thread Group 1-4,text,true,,1154596,118,48,48,https://www.daraz.com.bd/,301,0,218
+1715376392128,56414,HTTP Request,200,OK,Thread Group 1-42,text,true,,1154586,118,47,47,https://www.daraz.com.bd/,1124,0,990
+1715376388530,61649,HTTP Request,200,OK,Thread Group 1-6,text,true,,1154568,118,46,46,https://www.daraz.com.bd/,322,0,236
+1715376389130,65706,HTTP Request,200,OK,Thread Group 1-12,text,true,,1154582,118,45,45,https://www.daraz.com.bd/,890,0,758
+1715376392630,62438,HTTP Request,200,OK,Thread Group 1-47,text,true,,1154604,118,44,44,https://www.daraz.com.bd/,556,0,402
+1715376390928,64283,HTTP Request,200,OK,Thread Group 1-30,text,true,,1154572,118,43,43,https://www.daraz.com.bd/,570,0,414
+1715376390130,65657,HTTP Request,200,OK,Thread Group 1-22,text,true,,1154572,118,42,42,https://www.daraz.com.bd/,537,0,412
+1715376389929,65948,HTTP Request,200,OK,Thread Group 1-20,text,true,,1154618,118,41,41,https://www.daraz.com.bd/,507,0,379
+1715376392828,63150,HTTP Request,200,OK,Thread Group 1-49,text,true,,1154567,118,40,40,https://www.daraz.com.bd/,893,0,752
+1715376392928,63371,HTTP Request,200,OK,Thread Group 1-50,text,true,,1154557,118,39,39,https://www.daraz.com.bd/,2000,0,1852
+1715376388129,69483,HTTP Request,200,OK,Thread Group 1-2,text,true,,1154645,118,38,38,https://www.daraz.com.bd/,616,0,260
+1715376388032,69978,HTTP Request,200,OK,Thread Group 1-1,text,true,,1154572,118,37,37,https://www.daraz.com.bd/,447,0,357
+1715376392530,65483,HTTP Request,200,OK,Thread Group 1-46,text,true,,1154592,118,37,37,https://www.daraz.com.bd/,1291,0,963
+1715376391129,66917,HTTP Request,200,OK,Thread Group 1-32,text,true,,1154584,118,35,35,https://www.daraz.com.bd/,546,0,418
+1715376391230,67333,HTTP Request,200,OK,Thread Group 1-33,text,true,,1154603,118,34,34,https://www.daraz.com.bd/,500,0,369
+1715376391329,67540,HTTP Request,200,OK,Thread Group 1-34,text,true,,1154562,118,33,33,https://www.daraz.com.bd/,2433,0,2280
+1715376389529,69457,HTTP Request,200,OK,Thread Group 1-16,text,true,,1154570,118,32,32,https://www.daraz.com.bd/,524,0,390
+1715376392029,67688,HTTP Request,200,OK,Thread Group 1-41,text,true,,1154608,118,31,31,https://www.daraz.com.bd/,1261,0,380
+1715376388930,71705,HTTP Request,200,OK,Thread Group 1-10,text,true,,1154572,118,30,30,https://www.daraz.com.bd/,563,0,414
+1715376390530,70347,HTTP Request,200,OK,Thread Group 1-26,text,true,,1154570,118,29,29,https://www.daraz.com.bd/,517,0,381
+1715376388830,72252,HTTP Request,200,OK,Thread Group 1-9,text,true,,1154570,118,28,28,https://www.daraz.com.bd/,441,0,313
+1715376391630,69824,HTTP Request,200,OK,Thread Group 1-37,text,true,,1154560,118,27,27,https://www.daraz.com.bd/,1742,0,1579
+1715376391829,70198,HTTP Request,200,OK,Thread Group 1-39,text,true,,1154594,118,26,26,https://www.daraz.com.bd/,516,0,375
+1715376392729,70376,HTTP Request,200,OK,Thread Group 1-48,text,true,,1154619,118,25,25,https://www.daraz.com.bd/,1523,0,1392
+1715376388731,74410,HTTP Request,200,OK,Thread Group 1-8,text,true,,1154592,118,24,24,https://www.daraz.com.bd/,1011,0,526
+1715376389429,74277,HTTP Request,200,OK,Thread Group 1-15,text,true,,1154613,118,23,23,https://www.daraz.com.bd/,582,0,430
+1715376389030,75172,HTTP Request,200,OK,Thread Group 1-11,text,true,,1154571,118,22,22,https://www.daraz.com.bd/,519,0,379
+1715376390730,73481,HTTP Request,200,OK,Thread Group 1-28,text,true,,1154568,118,21,21,https://www.daraz.com.bd/,502,0,378
+1715376390629,73637,HTTP Request,200,OK,Thread Group 1-27,text,true,,1154611,118,20,20,https://www.daraz.com.bd/,1435,0,1304
+1715376388431,75976,HTTP Request,200,OK,Thread Group 1-5,text,true,,1154582,118,19,19,https://www.daraz.com.bd/,341,0,258
+1715376389629,75233,HTTP Request,200,OK,Thread Group 1-17,text,true,,1154574,118,18,18,https://www.daraz.com.bd/,2195,0,2063
+1715376389229,75861,HTTP Request,200,OK,Thread Group 1-13,text,true,,1154572,118,17,17,https://www.daraz.com.bd/,528,0,387
+1715376390028,75351,HTTP Request,200,OK,Thread Group 1-21,text,true,,1154570,118,16,16,https://www.daraz.com.bd/,1129,0,976
+1715376391529,73906,HTTP Request,200,OK,Thread Group 1-36,text,true,,1154572,118,15,15,https://www.daraz.com.bd/,685,0,393
+1715376391428,74363,HTTP Request,200,OK,Thread Group 1-35,text,true,,1154544,118,14,14,https://www.daraz.com.bd/,2195,0,436
+1715376391728,74558,HTTP Request,200,OK,Thread Group 1-38,text,true,,1154586,118,13,13,https://www.daraz.com.bd/,5059,0,4914
+1715376389828,76500,HTTP Request,200,OK,Thread Group 1-19,text,true,,1154593,118,12,12,https://www.daraz.com.bd/,1610,0,1442
+1715376389329,77204,HTTP Request,200,OK,Thread Group 1-14,text,true,,1154584,118,11,11,https://www.daraz.com.bd/,965,0,821
+1715376390329,76423,HTTP Request,200,OK,Thread Group 1-24,text,true,,1154571,118,10,10,https://www.daraz.com.bd/,1423,0,902
+1715376392228,74767,HTTP Request,200,OK,Thread Group 1-43,text,true,,1154609,118,9,9,https://www.daraz.com.bd/,534,0,396
+1715376391028,76012,HTTP Request,200,OK,Thread Group 1-31,text,true,,1154572,118,8,8,https://www.daraz.com.bd/,5846,0,5710
+1715376390229,77004,HTTP Request,200,OK,Thread Group 1-23,text,true,,1154616,118,7,7,https://www.daraz.com.bd/,1808,0,1041
+1715376392430,75090,HTTP Request,200,OK,Thread Group 1-45,text,true,,1154576,118,6,6,https://www.daraz.com.bd/,3419,0,3291
+1715376390828,76821,HTTP Request,200,OK,Thread Group 1-29,text,true,,1154545,118,5,5,https://www.daraz.com.bd/,917,0,403
+1715376391929,75996,HTTP Request,200,OK,Thread Group 1-40,text,true,,1154612,118,4,4,https://www.daraz.com.bd/,519,0,388
+1715376392329,76263,HTTP Request,200,OK,Thread Group 1-44,text,true,,1154636,118,3,3,https://www.daraz.com.bd/,3396,0,3252
+1715376390428,78973,HTTP Request,200,OK,Thread Group 1-25,text,true,,1154600,118,2,2,https://www.daraz.com.bd/,46667,0,46510
+1715376389729,84937,HTTP Request,200,OK,Thread Group 1-18,text,true,,1154570,118,1,1,https://www.daraz.com.bd/,1268,0,938
+1715376500444,61031,HTTP Request,200,OK,Thread Group 1-4,text,true,,1154673,118,60,60,https://www.daraz.com.bd/,347,0,259
+1715376503349,75345,HTTP Request,200,OK,Thread Group 1-39,text,true,,1154613,118,59,59,https://www.daraz.com.bd/,1129,0,808
+1715376504509,81271,HTTP Request,200,OK,Thread Group 1-53,text,true,,1154618,118,58,58,https://www.daraz.com.bd/,2080,0,1947
+1715376501189,84758,HTTP Request,200,OK,Thread Group 1-13,text,true,,1154572,118,57,57,https://www.daraz.com.bd/,2874,0,2732
+1715376501936,84607,HTTP Request,200,OK,Thread Group 1-22,text,true,,1154576,118,56,56,https://www.daraz.com.bd/,1419,0,869
+1715376502763,84307,HTTP Request,200,OK,Thread Group 1-32,text,true,,1154598,118,55,55,https://www.daraz.com.bd/,2362,0,1723
+1715376504012,84639,HTTP Request,200,OK,Thread Group 1-47,text,true,,1154595,118,54,54,https://www.daraz.com.bd/,659,0,521
+1715376500945,88089,HTTP Request,200,OK,Thread Group 1-10,text,true,,1154604,118,53,53,https://www.daraz.com.bd/,508,0,419
+1715376502682,87454,HTTP Request,200,OK,Thread Group 1-31,text,true,,1154578,118,52,52,https://www.daraz.com.bd/,2584,0,2451
+1715376504757,85488,HTTP Request,200,OK,Thread Group 1-56,text,true,,1154611,118,51,51,https://www.daraz.com.bd/,577,0,432
+1715376502184,88767,HTTP Request,200,OK,Thread Group 1-25,text,true,,1154572,118,50,50,https://www.daraz.com.bd/,1155,0,440
+1715376502930,89032,HTTP Request,200,OK,Thread Group 1-34,text,true,,1154586,118,49,49,https://www.daraz.com.bd/,849,0,374
+1715376502102,90080,HTTP Request,200,OK,Thread Group 1-24,text,true,,1154585,118,48,48,https://www.daraz.com.bd/,3129,0,2523
+1715376503764,88531,HTTP Request,200,OK,Thread Group 1-44,text,true,,1154604,118,47,47,https://www.daraz.com.bd/,989,0,861
+1715376504924,88905,HTTP Request,200,OK,Thread Group 1-58,text,true,,1154628,118,46,46,https://www.daraz.com.bd/,956,0,812
+1715376502598,93642,HTTP Request,200,OK,Thread Group 1-30,text,true,,1154617,118,45,45,https://www.daraz.com.bd/,1371,0,1224
+1715376504427,91840,HTTP Request,200,OK,Thread Group 1-52,text,true,,1154630,118,44,44,https://www.daraz.com.bd/,2067,0,1930
+1715376501027,96048,HTTP Request,200,OK,Thread Group 1-11,text,true,,1154569,118,43,43,https://www.daraz.com.bd/,3523,0,3451
+1715376503515,94782,HTTP Request,200,OK,Thread Group 1-41,text,true,,1154554,118,42,42,https://www.daraz.com.bd/,5647,0,4105
+1715376501769,98023,HTTP Request,200,OK,Thread Group 1-20,text,true,,1154611,118,41,41,https://www.daraz.com.bd/,1572,0,1430
+1715376503098,96734,HTTP Request,200,OK,Thread Group 1-36,text,true,,1154572,118,40,40,https://www.daraz.com.bd/,661,0,363
+1715376503263,96705,HTTP Request,200,OK,Thread Group 1-38,text,true,,1154578,118,39,39,https://www.daraz.com.bd/,1215,0,894
+1715376503598,96839,HTTP Request,200,OK,Thread Group 1-42,text,true,,1154618,118,38,38,https://www.daraz.com.bd/,1263,0,1125
+1715376504176,96927,HTTP Request,200,OK,Thread Group 1-49,text,true,,1154568,118,37,37,https://www.daraz.com.bd/,1335,0,1207
+1715376500778,100429,HTTP Request,200,OK,Thread Group 1-8,text,true,,1154620,118,36,36,https://www.daraz.com.bd/,673,0,405
+1715376501610,100412,HTTP Request,200,OK,Thread Group 1-18,text,true,,1154618,118,35,35,https://www.daraz.com.bd/,547,0,414
+1715376503182,98867,HTTP Request,200,OK,Thread Group 1-37,text,true,,1154576,118,34,34,https://www.daraz.com.bd/,524,0,392
+1715376500525,101924,HTTP Request,200,OK,Thread Group 1-5,text,true,,1154612,118,33,33,https://www.daraz.com.bd/,443,0,304
+1715376504260,99252,HTTP Request,200,OK,Thread Group 1-50,text,true,,1154572,118,32,32,https://www.daraz.com.bd/,613,0,474
+1715376504591,100696,HTTP Request,200,OK,Thread Group 1-54,text,true,,1154586,118,31,31,https://www.daraz.com.bd/,2338,0,2191
+1715376505095,100532,HTTP Request,200,OK,Thread Group 1-60,text,true,,1154595,118,30,30,https://www.daraz.com.bd/,1581,0,1441
+1715376502516,103529,HTTP Request,200,OK,Thread Group 1-29,text,true,,1154595,118,29,29,https://www.daraz.com.bd/,797,0,448
+1715376503928,102674,HTTP Request,200,OK,Thread Group 1-46,text,true,,1154561,118,28,28,https://www.daraz.com.bd/,1568,0,560
+1715376501524,105123,HTTP Request,200,OK,Thread Group 1-17,text,true,,1154595,118,27,27,https://www.daraz.com.bd/,2485,0,2331
+1715376504841,101878,HTTP Request,200,OK,Thread Group 1-57,text,true,,1154569,118,26,26,https://www.daraz.com.bd/,5639,0,5501
+1715376503428,103895,HTTP Request,200,OK,Thread Group 1-40,text,true,,1154571,118,25,25,https://www.daraz.com.bd/,2338,0,2191
+1715376500275,107149,HTTP Request,200,OK,Thread Group 1-2,text,true,,1154587,118,24,24,https://www.daraz.com.bd/,320,0,244
+1715376504095,103472,HTTP Request,200,OK,Thread Group 1-48,text,true,,1154569,118,23,23,https://www.daraz.com.bd/,1238,0,527
+1715376502847,105400,HTTP Request,200,OK,Thread Group 1-33,text,true,,1154594,118,22,22,https://www.daraz.com.bd/,6237,0,6088
+1715376503847,104520,HTTP Request,200,OK,Thread Group 1-45,text,true,,1154585,118,21,21,https://www.daraz.com.bd/,1087,0,950
+1715376500698,107756,HTTP Request,200,OK,Thread Group 1-7,text,true,,1154588,118,20,20,https://www.daraz.com.bd/,446,0,311
+1715376503680,105422,HTTP Request,200,OK,Thread Group 1-43,text,true,,1154591,118,19,19,https://www.daraz.com.bd/,784,0,443
+1715376500858,108632,HTTP Request,200,OK,Thread Group 1-9,text,true,,1154600,118,18,18,https://www.daraz.com.bd/,3130,0,2978
+1715376504675,104957,HTTP Request,200,OK,Thread Group 1-55,text,true,,1154574,118,17,17,https://www.daraz.com.bd/,3027,0,2140
+1715376504343,106481,HTTP Request,200,OK,Thread Group 1-51,text,true,,1154561,118,16,16,https://www.daraz.com.bd/,1958,0,1806
+1715376502020,109452,HTTP Request,200,OK,Thread Group 1-23,text,true,,1154594,118,15,15,https://www.daraz.com.bd/,8919,0,8783
+1715376501687,110006,HTTP Request,200,OK,Thread Group 1-19,text,true,,1154608,118,14,14,https://www.daraz.com.bd/,1593,0,1447
+1715376502351,109381,HTTP Request,200,OK,Thread Group 1-27,text,true,,1154572,118,13,13,https://www.daraz.com.bd/,786,0,454
+1715376500360,111394,HTTP Request,200,OK,Thread Group 1-3,text,true,,1154556,118,12,12,https://www.daraz.com.bd/,293,0,218
+1715376501108,111852,HTTP Request,200,OK,Thread Group 1-12,text,true,,1154594,118,11,11,https://www.daraz.com.bd/,498,0,380
+1715376501361,111656,HTTP Request,200,OK,Thread Group 1-15,text,true,,1154579,118,10,10,https://www.daraz.com.bd/,454,0,307
+1715376502431,111076,HTTP Request,200,OK,Thread Group 1-28,text,true,,1154575,118,9,9,https://www.daraz.com.bd/,541,0,405
+1715376502267,112666,HTTP Request,200,OK,Thread Group 1-26,text,true,,1154555,118,8,8,https://www.daraz.com.bd/,601,0,450
+1715376501442,117984,HTTP Request,200,OK,Thread Group 1-16,text,true,,1154636,118,7,7,https://www.daraz.com.bd/,1152,0,999
+1715376500611,119172,HTTP Request,200,OK,Thread Group 1-6,text,true,,1154587,118,6,6,https://www.daraz.com.bd/,439,0,304
+1715376500193,120528,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 917,186; actual size: 601,197)",Thread Group 1-1,text,false,,1300,0,5,5,https://www.daraz.com.bd/,466,0,361
+1715376501276,120004,HTTP Request,200,OK,Thread Group 1-14,text,true,,1154568,118,4,4,https://www.daraz.com.bd/,433,0,297
+1715376503012,121184,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,048,169; actual size: 288,422)",Thread Group 1-35,text,false,,1302,0,3,3,https://www.daraz.com.bd/,504,0,369
+1715376505008,124667,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 987,361; actual size: 353,575)",Thread Group 1-59,text,false,,1300,0,2,2,https://www.daraz.com.bd/,593,0,437
+1715376501855,128077,HTTP Request,200,OK,Thread Group 1-21,text,true,,1154681,118,1,1,https://www.daraz.com.bd/,984,0,837
+1715376782359,78896,HTTP Request,200,OK,Thread Group 1-28,text,true,,1154561,118,70,70,https://www.daraz.com.bd/,575,0,427
+1715376780937,80864,HTTP Request,200,OK,Thread Group 1-8,text,true,,1154589,118,69,69,https://www.daraz.com.bd/,411,0,265
+1715376783067,79709,HTTP Request,200,OK,Thread Group 1-38,text,true,,1154617,118,68,68,https://www.daraz.com.bd/,723,0,402
+1715376783849,80868,HTTP Request,200,OK,Thread Group 1-49,text,true,,1154560,118,67,67,https://www.daraz.com.bd/,678,0,386
+1715376781788,83281,HTTP Request,200,OK,Thread Group 1-20,text,true,,1154586,118,66,66,https://www.daraz.com.bd/,1103,0,951
+1715376780723,87859,HTTP Request,200,OK,Thread Group 1-5,text,true,,1154589,118,65,65,https://www.daraz.com.bd/,333,0,247
+1715376784133,85029,HTTP Request,200,OK,Thread Group 1-53,text,true,,1154553,118,64,64,https://www.daraz.com.bd/,1883,0,1756
+1715376780655,92276,HTTP Request,200,OK,Thread Group 1-4,text,true,,1154567,118,63,63,https://www.daraz.com.bd/,373,0,293
+1715376782143,91744,HTTP Request,200,OK,Thread Group 1-25,text,true,,1154578,118,62,62,https://www.daraz.com.bd/,2685,0,1786
+1715376780511,95087,HTTP Request,200,OK,Thread Group 1-2,text,true,,1154580,118,61,61,https://www.daraz.com.bd/,567,0,465
+1715376784628,91279,HTTP Request,200,OK,Thread Group 1-60,text,true,,1154561,118,60,60,https://www.daraz.com.bd/,1546,0,1402
+1715376783990,92192,HTTP Request,200,OK,Thread Group 1-51,text,true,,1154570,118,59,59,https://www.daraz.com.bd/,767,0,424
+1715376783352,93061,HTTP Request,200,OK,Thread Group 1-42,text,true,,1154553,118,58,58,https://www.daraz.com.bd/,1405,0,1255
+1715376782572,93927,HTTP Request,200,OK,Thread Group 1-31,text,true,,1154585,118,57,57,https://www.daraz.com.bd/,561,0,415
+1715376784914,94170,HTTP Request,200,OK,Thread Group 1-64,text,true,,1154599,118,56,56,https://www.daraz.com.bd/,1373,0,872
+1715376782784,98912,HTTP Request,200,OK,Thread Group 1-34,text,true,,1154569,118,55,55,https://www.daraz.com.bd/,597,0,447
+1715376784346,98407,HTTP Request,200,OK,Thread Group 1-56,text,true,,1154591,118,54,54,https://www.daraz.com.bd/,990,0,441
+1715376782287,101321,HTTP Request,200,OK,Thread Group 1-27,text,true,,1154577,118,53,53,https://www.daraz.com.bd/,3293,0,2678
+1715376784558,99055,HTTP Request,200,OK,Thread Group 1-59,text,true,,1154569,118,52,52,https://www.daraz.com.bd/,1011,0,858
+1715376780796,102971,HTTP Request,200,OK,Thread Group 1-6,text,true,,1154584,118,51,51,https://www.daraz.com.bd/,366,0,254
+1715376782926,101296,HTTP Request,200,OK,Thread Group 1-36,text,true,,1154614,118,50,50,https://www.daraz.com.bd/,2450,0,2285
+1715376781081,103282,HTTP Request,200,OK,Thread Group 1-10,text,true,,1154568,118,49,49,https://www.daraz.com.bd/,1589,0,1439
+1715376784273,100192,HTTP Request,200,OK,Thread Group 1-55,text,true,,1154581,118,48,48,https://www.daraz.com.bd/,4197,0,4037
+1715376782854,101990,HTTP Request,200,OK,Thread Group 1-35,text,true,,1154571,118,47,47,https://www.daraz.com.bd/,586,0,438
+1715376784841,101126,HTTP Request,200,OK,Thread Group 1-63,text,true,,1154632,118,46,46,https://www.daraz.com.bd/,4903,0,4325
+1715376784699,101312,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 883,806; actual size: 366,194)",Thread Group 1-61,text,false,,1300,0,45,45,https://www.daraz.com.bd/,1484,0,1354
+1715376783424,102624,HTTP Request,200,OK,Thread Group 1-43,text,true,,1154575,118,44,44,https://www.daraz.com.bd/,1225,0,1095
+1715376785346,100715,HTTP Request,200,OK,Thread Group 1-70,text,true,,1154609,118,43,43,https://www.daraz.com.bd/,1641,0,771
+1715376782997,103151,HTTP Request,200,OK,Thread Group 1-37,text,true,,1154588,118,42,42,https://www.daraz.com.bd/,1113,0,382
+1715376785126,101036,HTTP Request,200,OK,Thread Group 1-67,text,true,,1154570,118,41,41,https://www.daraz.com.bd/,571,0,431
+1715376781363,105715,HTTP Request,200,OK,Thread Group 1-14,text,true,,1154595,118,40,40,https://www.daraz.com.bd/,1658,0,1510
+1715376783208,104092,HTTP Request,200,OK,Thread Group 1-40,text,true,,1154605,118,39,39,https://www.daraz.com.bd/,564,0,415
+1715376781933,106037,HTTP Request,200,OK,Thread Group 1-22,text,true,,1154578,118,38,38,https://www.daraz.com.bd/,1664,0,1538
+1715376784204,104323,HTTP Request,200,OK,Thread Group 1-54,text,true,,1154635,118,37,37,https://www.daraz.com.bd/,2490,0,2340
+1715376783279,105559,HTTP Request,200,OK,Thread Group 1-41,text,true,,1154589,118,36,36,https://www.daraz.com.bd/,2139,0,1478
+1715376784418,104533,HTTP Request,200,OK,Thread Group 1-57,text,true,,1154582,118,35,35,https://www.daraz.com.bd/,8224,0,7641
+1715376785269,104455,HTTP Request,200,OK,Thread Group 1-69,text,true,,1154628,118,34,34,https://www.daraz.com.bd/,2499,0,2351
+1715376785056,104837,HTTP Request,200,OK,Thread Group 1-66,text,true,,1154641,118,33,33,https://www.daraz.com.bd/,1153,0,1009
+1715376780441,109640,HTTP Request,200,OK,Thread Group 1-1,text,true,,1154547,118,32,32,https://www.daraz.com.bd/,582,0,507
+1715376781007,109391,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 941,541; actual size: 50,145)",Thread Group 1-9,text,false,,1299,0,31,31,https://www.daraz.com.bd/,967,0,853
+1715376784770,105896,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 57,336; actual size: 47,322)",Thread Group 1-62,text,false,,1298,0,30,30,https://www.daraz.com.bd/,5258,0,5119
+1715376781507,109492,HTTP Request,200,OK,Thread Group 1-16,text,true,,1154575,118,29,29,https://www.daraz.com.bd/,1226,0,1090
+1715376783775,107284,HTTP Request,200,OK,Thread Group 1-48,text,true,,1154567,118,28,28,https://www.daraz.com.bd/,1425,0,1286
+1715376782500,108653,HTTP Request,200,OK,Thread Group 1-30,text,true,,1154591,118,27,27,https://www.daraz.com.bd/,557,0,417
+1715376780865,111157,HTTP Request,200,OK,Thread Group 1-7,text,true,,1154561,118,26,26,https://www.daraz.com.bd/,302,0,195
+1715376783138,108942,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,073,447; actual size: 78,490)",Thread Group 1-39,text,false,,1301,0,25,25,https://www.daraz.com.bd/,1545,0,982
+1715376783635,108589,HTTP Request,200,OK,Thread Group 1-46,text,true,,1154585,118,24,24,https://www.daraz.com.bd/,564,0,423
+1715376781646,111452,HTTP Request,200,OK,Thread Group 1-18,text,true,,1154567,118,23,23,https://www.daraz.com.bd/,581,0,441
+1715376781150,112065,HTTP Request,200,OK,Thread Group 1-11,text,true,,1154547,118,22,22,https://www.daraz.com.bd/,525,0,388
+1715376783707,109778,HTTP Request,200,OK,Thread Group 1-47,text,true,,1154577,118,21,21,https://www.daraz.com.bd/,3202,0,3059
+1715376782003,111587,HTTP Request,200,OK,Thread Group 1-23,text,true,,1154571,118,20,20,https://www.daraz.com.bd/,896,0,762
+1715376785198,108523,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 917,109; actual size: 220,302)",Thread Group 1-68,text,false,,1300,0,19,19,https://www.daraz.com.bd/,515,0,379
+1715376782644,111149,HTTP Request,200,OK,Thread Group 1-32,text,true,,1154572,118,18,18,https://www.daraz.com.bd/,580,0,435
+1715376781861,112086,HTTP Request,200,OK,Thread Group 1-21,text,true,,1154571,118,17,17,https://www.daraz.com.bd/,3285,0,2904
+1715376781436,112616,HTTP Request,200,OK,Thread Group 1-15,text,true,,1154575,118,16,16,https://www.daraz.com.bd/,24206,0,23923
+1715376783564,110669,HTTP Request,200,OK,Thread Group 1-45,text,true,,1154632,118,15,15,https://www.daraz.com.bd/,1232,0,1102
+1715376781292,112998,HTTP Request,200,OK,Thread Group 1-13,text,true,,1154683,118,14,14,https://www.daraz.com.bd/,587,0,434
+1715376780582,115012,HTTP Request,200,OK,Thread Group 1-3,text,true,,1154616,118,13,13,https://www.daraz.com.bd/,439,0,366
+1715376784985,110703,HTTP Request,200,OK,Thread Group 1-65,text,true,,1154569,118,12,12,https://www.daraz.com.bd/,4613,0,4477
+1715376781577,114145,HTTP Request,200,OK,Thread Group 1-17,text,true,,1154642,118,11,11,https://www.daraz.com.bd/,2877,0,2724
+1715376781220,116080,HTTP Request,200,OK,Thread Group 1-12,text,true,,1154597,118,10,10,https://www.daraz.com.bd/,1540,0,1405
+1715376783919,113446,HTTP Request,200,OK,Thread Group 1-50,text,true,,1154583,118,9,9,https://www.daraz.com.bd/,7384,0,7251
+1715376782072,115764,HTTP Request,200,OK,Thread Group 1-24,text,true,,1154608,118,8,8,https://www.daraz.com.bd/,49167,0,49026
+1715376782427,117776,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 977,724; actual size: 217,971)",Thread Group 1-29,text,false,,1300,0,7,7,https://www.daraz.com.bd/,588,0,438
+1715376783494,125852,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,047,915; actual size: 387,570)",Thread Group 1-44,text,false,,1302,0,6,6,https://www.daraz.com.bd/,535,0,399
+1715376781719,140108,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 917,225; actual size: 347,831)",Thread Group 1-19,text,false,,1300,0,5,5,https://www.daraz.com.bd/,547,0,405
+1715376782713,146580,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 916,873; actual size: 210,289)",Thread Group 1-33,text,false,,1300,0,4,4,https://www.daraz.com.bd/,3380,0,3229
+1715376782215,150831,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 745,977; actual size: 609,138)",Thread Group 1-26,text,false,,1300,0,3,3,https://www.daraz.com.bd/,1194,0,1043
+1715376784488,201372,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-58,text,false,,2499,0,2,2,https://www.daraz.com.bd/,504,0,370
+1715376784061,258521,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-52,text,false,,3322,0,1,1,https://www.daraz.com.bd/,0,0,258521
+1715377051340,51854,HTTP Request,200,OK,Thread Group 1-3,text,true,,1154785,118,80,80,https://www.daraz.com.bd/,370,0,285
+1715377052035,76395,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 24,732; actual size: 12,850)",Thread Group 1-14,text,false,,1298,0,79,79,https://www.daraz.com.bd/,505,0,372
+1715377054994,75078,HTTP Request,200,OK,Thread Group 1-61,text,true,,1154600,118,78,78,https://www.daraz.com.bd/,566,0,419
+1715377051276,83743,HTTP Request,200,OK,Thread Group 1-2,text,true,,1154610,118,77,77,https://www.daraz.com.bd/,434,0,349
+1715377053735,82770,HTTP Request,200,OK,Thread Group 1-41,text,true,,1154635,118,76,76,https://www.daraz.com.bd/,1567,0,1426
+1715377052474,88439,HTTP Request,200,OK,Thread Group 1-21,text,true,,1154579,118,75,75,https://www.daraz.com.bd/,1076,0,929
+1715377054742,87580,HTTP Request,200,OK,Thread Group 1-57,text,true,,1154561,118,74,74,https://www.daraz.com.bd/,4248,0,4105
+1715377054112,88439,HTTP Request,200,OK,Thread Group 1-47,text,true,,1154552,118,73,73,https://www.daraz.com.bd/,1448,0,1302
+1715377054175,89491,HTTP Request,200,OK,Thread Group 1-48,text,true,,1154584,118,72,72,https://www.daraz.com.bd/,3739,0,3595
+1715377052663,91240,HTTP Request,200,OK,Thread Group 1-24,text,true,,1154650,118,71,71,https://www.daraz.com.bd/,705,0,399
+1715377054617,89374,HTTP Request,200,OK,Thread Group 1-55,text,true,,1154570,118,70,70,https://www.daraz.com.bd/,2332,0,2018
+1715377052789,91641,HTTP Request,200,OK,Thread Group 1-26,text,true,,1154587,118,69,69,https://www.daraz.com.bd/,1143,0,995
+1715377052851,94184,HTTP Request,200,OK,Thread Group 1-27,text,true,,1154556,118,68,68,https://www.daraz.com.bd/,876,0,728
+1715377052977,95755,HTTP Request,200,OK,Thread Group 1-29,text,true,,1154616,118,67,67,https://www.daraz.com.bd/,1247,0,924
+1715377055374,95926,HTTP Request,200,OK,Thread Group 1-67,text,true,,1154682,118,66,66,https://www.daraz.com.bd/,6560,0,6419
+1715377054490,97340,HTTP Request,200,OK,Thread Group 1-53,text,true,,1154593,118,65,65,https://www.daraz.com.bd/,1955,0,1414
+1715377055498,98115,HTTP Request,200,OK,Thread Group 1-69,text,true,,1154569,118,64,64,https://www.daraz.com.bd/,534,0,397
+1715377052601,101751,HTTP Request,200,OK,Thread Group 1-23,text,true,,1154585,118,63,63,https://www.daraz.com.bd/,2694,0,2563
+1715377053546,102206,HTTP Request,200,OK,Thread Group 1-38,text,true,,1154575,118,62,62,https://www.daraz.com.bd/,519,0,387
+1715377053356,102779,HTTP Request,200,OK,Thread Group 1-35,text,true,,1154577,118,61,61,https://www.daraz.com.bd/,539,0,397
+1715377054427,102366,HTTP Request,200,OK,Thread Group 1-52,text,true,,1154600,118,60,60,https://www.daraz.com.bd/,537,0,402
+1715377053923,102916,HTTP Request,200,OK,Thread Group 1-44,text,true,,1154665,118,59,59,https://www.daraz.com.bd/,1110,0,963
+1715377051971,105581,HTTP Request,200,OK,Thread Group 1-13,text,true,,1154576,118,58,58,https://www.daraz.com.bd/,901,0,780
+1715377056067,101523,HTTP Request,200,OK,Thread Group 1-78,text,true,,1154564,118,57,57,https://www.daraz.com.bd/,4376,0,4230
+1715377056192,101873,HTTP Request,200,OK,Thread Group 1-80,text,true,,1154579,118,56,56,https://www.daraz.com.bd/,559,0,419
+1715377053862,104556,HTTP Request,200,OK,Thread Group 1-43,text,true,,1154618,118,55,55,https://www.daraz.com.bd/,1938,0,1401
+1715377052348,106911,HTTP Request,200,OK,Thread Group 1-19,text,true,,1154609,118,54,54,https://www.daraz.com.bd/,559,0,420
+1715377051404,107855,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,069,836; actual size: 387,076)",Thread Group 1-4,text,false,,1302,0,54,54,https://www.daraz.com.bd/,314,0,237
+1715377053671,106914,HTTP Request,200,OK,Thread Group 1-40,text,true,,1154589,118,52,52,https://www.daraz.com.bd/,959,0,814
+1715377054554,106059,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 22,460; actual size: 20,803)",Thread Group 1-54,text,false,,1298,0,51,51,https://www.daraz.com.bd/,1167,0,401
+1715377051593,109185,HTTP Request,200,OK,Thread Group 1-7,text,true,,1154713,118,50,50,https://www.daraz.com.bd/,829,0,258
+1715377051532,112127,HTTP Request,200,OK,Thread Group 1-6,text,true,,1154600,118,49,49,https://www.daraz.com.bd/,334,0,257
+1715377051468,112447,HTTP Request,200,OK,Thread Group 1-5,text,true,,1154601,118,48,48,https://www.daraz.com.bd/,332,0,245
+1715377052915,112882,HTTP Request,200,OK,Thread Group 1-28,text,true,,1154592,118,47,47,https://www.daraz.com.bd/,3899,0,3749
+1715377054301,111510,HTTP Request,200,OK,Thread Group 1-50,text,true,,1154598,118,46,46,https://www.daraz.com.bd/,1725,0,1581
+1715377055813,110123,HTTP Request,200,OK,Thread Group 1-74,text,true,,1154594,118,45,45,https://www.daraz.com.bd/,3164,0,2576
+1715377053041,113727,HTTP Request,200,OK,Thread Group 1-30,text,true,,1154594,118,44,44,https://www.daraz.com.bd/,1868,0,1724
+1715377052099,115552,HTTP Request,200,OK,Thread Group 1-15,text,true,,1154611,118,43,43,https://www.daraz.com.bd/,542,0,401
+1715377055121,112605,HTTP Request,200,OK,Thread Group 1-63,text,true,,1154569,118,42,42,https://www.daraz.com.bd/,544,0,413
+1715377053985,113741,HTTP Request,200,OK,Thread Group 1-45,text,true,,1154585,118,42,42,https://www.daraz.com.bd/,7552,0,1269
+1715377056130,111677,HTTP Request,200,OK,Thread Group 1-79,text,true,,1154651,118,40,40,https://www.daraz.com.bd/,3332,0,3196
+1715377053484,114551,HTTP Request,200,OK,Thread Group 1-37,text,true,,1154650,118,39,39,https://www.daraz.com.bd/,560,0,411
+1715377051844,116832,HTTP Request,200,OK,Thread Group 1-11,text,true,,1154585,118,38,38,https://www.daraz.com.bd/,7657,0,7515
+1715377054680,114782,HTTP Request,200,OK,Thread Group 1-56,text,true,,1154601,118,37,37,https://www.daraz.com.bd/,549,0,409
+1715377055308,114749,HTTP Request,200,OK,Thread Group 1-66,text,true,,1154578,118,36,36,https://www.daraz.com.bd/,4026,0,3892
+1715377055182,115020,HTTP Request,200,OK,Thread Group 1-64,text,true,,1154608,118,35,35,https://www.daraz.com.bd/,7047,0,6905
+1715377055435,115336,HTTP Request,200,OK,Thread Group 1-68,text,true,,1154568,118,34,34,https://www.daraz.com.bd/,1366,0,420
+1715377053103,119093,HTTP Request,200,OK,Thread Group 1-31,text,true,,1154585,118,33,33,https://www.daraz.com.bd/,1586,0,1435
+1715377051782,120428,HTTP Request,200,OK,Thread Group 1-10,text,true,,1154587,118,32,32,https://www.daraz.com.bd/,758,0,327
+1715377053166,119476,HTTP Request,200,OK,Thread Group 1-32,text,true,,1154592,118,31,31,https://www.daraz.com.bd/,4938,0,4789
+1715377055687,117116,HTTP Request,200,OK,Thread Group 1-72,text,true,,1154563,118,30,30,https://www.daraz.com.bd/,12681,0,12532
+1715377052410,121710,HTTP Request,200,OK,Thread Group 1-20,text,true,,1154580,118,29,29,https://www.daraz.com.bd/,4930,0,4780
+1715377051214,123494,HTTP Request,200,OK,Thread Group 1-1,text,true,,1154568,118,28,28,https://www.daraz.com.bd/,498,0,411
+1715377054241,120953,HTTP Request,200,OK,Thread Group 1-49,text,true,,1154569,118,27,27,https://www.daraz.com.bd/,2391,0,1843
+1715377054366,121144,HTTP Request,200,OK,Thread Group 1-51,text,true,,1154571,118,26,26,https://www.daraz.com.bd/,547,0,411
+1715377054931,120762,HTTP Request,200,OK,Thread Group 1-60,text,true,,1154596,118,25,25,https://www.daraz.com.bd/,1185,0,861
+1715377052224,123518,HTTP Request,200,OK,Thread Group 1-17,text,true,,1154596,118,24,24,https://www.daraz.com.bd/,570,0,429
+1715377052537,124224,HTTP Request,200,OK,Thread Group 1-22,text,true,,1154606,118,23,23,https://www.daraz.com.bd/,516,0,380
+1715377055056,122106,HTTP Request,200,OK,Thread Group 1-62,text,true,,1154622,118,22,22,https://www.daraz.com.bd/,1831,0,1683
+1715377055561,121794,HTTP Request,200,OK,Thread Group 1-70,text,true,,1154593,118,21,21,https://www.daraz.com.bd/,3009,0,2883
+1715377054050,123351,HTTP Request,200,OK,Thread Group 1-46,text,true,,1154579,118,20,20,https://www.daraz.com.bd/,2034,0,1700
+1715377053798,123661,HTTP Request,200,OK,Thread Group 1-42,text,true,,1154595,118,19,19,https://www.daraz.com.bd/,7226,0,3636
+1715377053609,124290,HTTP Request,200,OK,Thread Group 1-39,text,true,,1154592,118,18,18,https://www.daraz.com.bd/,3566,0,3435
+1715377055247,122732,HTTP Request,200,OK,Thread Group 1-65,text,true,,1154576,118,17,17,https://www.daraz.com.bd/,555,0,416
+1715377053418,124591,HTTP Request,200,OK,Thread Group 1-36,text,true,,1154720,118,16,16,https://www.daraz.com.bd/,55254,0,55110
+1715377051719,126489,HTTP Request,200,OK,Thread Group 1-9,text,true,,1154548,118,15,15,https://www.daraz.com.bd/,1138,0,651
+1715377053295,125009,HTTP Request,200,OK,Thread Group 1-34,text,true,,1154755,118,14,14,https://www.daraz.com.bd/,6992,0,6848
+1715377051658,126775,HTTP Request,200,OK,Thread Group 1-8,text,true,,1154611,118,13,13,https://www.daraz.com.bd/,405,0,264
+1715377052727,126024,HTTP Request,200,OK,Thread Group 1-25,text,true,,1154616,118,12,12,https://www.daraz.com.bd/,917,0,779
+1715377055878,123831,HTTP Request,200,OK,Thread Group 1-75,text,true,,1154611,118,11,11,https://www.daraz.com.bd/,6414,0,2619
+1715377053233,127276,HTTP Request,200,OK,Thread Group 1-33,text,true,,1154562,118,10,10,https://www.daraz.com.bd/,1970,0,1831
+1715377052285,129017,HTTP Request,200,OK,Thread Group 1-18,text,true,,1154576,118,9,9,https://www.daraz.com.bd/,517,0,387
+1715377051909,129633,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 510,961; actual size: 501,430)",Thread Group 1-12,text,false,,1300,0,8,8,https://www.daraz.com.bd/,1059,0,948
+1715377054805,127660,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 913,939; actual size: 142,969)",Thread Group 1-58,text,false,,1300,0,7,7,https://www.daraz.com.bd/,2844,0,2700
+1715377054867,133055,HTTP Request,200,OK,Thread Group 1-59,text,true,,1154569,118,6,6,https://www.daraz.com.bd/,1702,0,844
+1715377056002,136837,HTTP Request,200,OK,Thread Group 1-77,text,true,,1154588,118,5,5,https://www.daraz.com.bd/,1099,0,959
+1715377055624,143850,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 941,684; actual size: 753,085)",Thread Group 1-71,text,false,,1300,0,4,4,https://www.daraz.com.bd/,553,0,416
+1715377055939,148382,HTTP Request,200,OK,Thread Group 1-76,text,true,,1154595,118,3,3,https://www.daraz.com.bd/,4500,0,4359
+1715377055751,161461,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 941,524; actual size: 804,745)",Thread Group 1-73,text,false,,1300,0,2,2,https://www.daraz.com.bd/,1331,0,1179
+1715377052161,236948,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 701,625; actual size: 183,992)",Thread Group 1-16,text,false,,1300,0,1,1,https://www.daraz.com.bd/,3682,0,3551
+1715377379381,71564,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 30,652; actual size: 21,031)",Thread Group 1-21,text,false,,1298,0,90,90,https://www.daraz.com.bd/,567,0,415
+1715377380390,87719,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 35,032; actual size: 10,235)",Thread Group 1-39,text,false,,1298,0,89,89,https://www.daraz.com.bd/,540,0,404
+1715377378543,91349,HTTP Request,200,OK,Thread Group 1-6,text,true,,1154571,118,88,88,https://www.daraz.com.bd/,301,0,218
+1715377381622,91923,HTTP Request,200,OK,Thread Group 1-61,text,true,,1154561,118,87,87,https://www.daraz.com.bd/,1796,0,1650
+1715377380278,96329,HTTP Request,200,OK,Thread Group 1-37,text,true,,1154576,118,86,86,https://www.daraz.com.bd/,1170,0,1013
+1715377379773,107065,HTTP Request,200,OK,Thread Group 1-28,text,true,,1155763,118,85,85,https://www.daraz.com.bd/,1906,0,406
+1715377382069,104910,HTTP Request,200,OK,Thread Group 1-69,text,true,,1154572,118,84,84,https://www.daraz.com.bd/,962,0,833
+1715377378375,108904,HTTP Request,200,OK,Thread Group 1-3,text,true,,1154598,118,83,83,https://www.daraz.com.bd/,280,0,207
+1715377378935,108344,HTTP Request,200,OK,Thread Group 1-13,text,true,,1155748,118,83,83,https://www.daraz.com.bd/,548,0,422
+1715377379215,108820,HTTP Request,200,OK,Thread Group 1-18,text,true,,1154572,118,81,81,https://www.daraz.com.bd/,543,0,395
+1715377378262,110783,HTTP Request,200,OK,Thread Group 1-1,text,true,,1155732,118,80,80,https://www.daraz.com.bd/,382,0,306
+1715377378879,110611,HTTP Request,200,OK,Thread Group 1-12,text,true,,1154566,118,79,79,https://www.daraz.com.bd/,1539,0,1399
+1715377381791,107740,HTTP Request,200,OK,Thread Group 1-64,text,true,,1154572,118,78,78,https://www.daraz.com.bd/,3862,0,3721
+1715377382519,108122,HTTP Request,200,OK,Thread Group 1-77,text,true,,1155772,118,77,77,https://www.daraz.com.bd/,1560,0,1405
+1715377383078,111835,HTTP Request,200,OK,Thread Group 1-87,text,true,,1154568,118,76,76,https://www.daraz.com.bd/,1050,0,914
+1715377381398,116483,HTTP Request,200,OK,Thread Group 1-57,text,true,,1155796,118,75,75,https://www.daraz.com.bd/,1552,0,1412
+1715377381509,116610,HTTP Request,200,OK,Thread Group 1-59,text,true,,1154604,118,74,74,https://www.daraz.com.bd/,5116,0,4983
+1715377379606,118752,HTTP Request,200,OK,Thread Group 1-25,text,true,,1154591,118,73,73,https://www.daraz.com.bd/,2864,0,2321
+1715377380614,118088,HTTP Request,200,OK,Thread Group 1-43,text,true,,1155747,118,72,72,https://www.daraz.com.bd/,13736,0,12843
+1715377380837,118159,HTTP Request,200,OK,Thread Group 1-47,text,true,,1154604,118,71,71,https://www.daraz.com.bd/,554,0,408
+1715377382796,118182,HTTP Request,200,OK,Thread Group 1-82,text,true,,1154584,118,70,70,https://www.daraz.com.bd/,958,0,408
+1715377382293,119187,HTTP Request,200,OK,Thread Group 1-73,text,true,,1155794,118,69,69,https://www.daraz.com.bd/,1029,0,892
+1715377382966,120441,HTTP Request,200,OK,Thread Group 1-85,text,true,,1154579,118,68,68,https://www.daraz.com.bd/,1113,0,963
+1715377378767,125070,HTTP Request,200,OK,Thread Group 1-10,text,true,,1154569,118,67,67,https://www.daraz.com.bd/,639,0,523
+1715377382686,121431,HTTP Request,200,OK,Thread Group 1-80,text,true,,1155772,118,66,66,https://www.daraz.com.bd/,4231,0,4087
+1715377380558,123860,HTTP Request,200,OK,Thread Group 1-42,text,true,,1154579,118,65,65,https://www.daraz.com.bd/,3276,0,3143
+1715377380221,124277,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,010,638; actual size: 430,074)",Thread Group 1-36,text,false,,1302,0,64,64,https://www.daraz.com.bd/,3995,0,3846
+1715377382628,122392,HTTP Request,200,OK,Thread Group 1-79,text,true,,1155738,118,63,63,https://www.daraz.com.bd/,2249,0,2109
+1715377381229,125350,HTTP Request,200,OK,Thread Group 1-54,text,true,,1154559,118,62,62,https://www.daraz.com.bd/,513,0,383
+1715377378317,128578,HTTP Request,200,OK,Thread Group 1-2,text,true,,1154590,118,61,61,https://www.daraz.com.bd/,333,0,254
+1715377379494,128185,HTTP Request,200,OK,Thread Group 1-23,text,true,,1155748,118,60,60,https://www.daraz.com.bd/,502,0,359
+1715377380893,127064,HTTP Request,200,OK,Thread Group 1-48,text,true,,1154564,118,59,59,https://www.daraz.com.bd/,864,0,734
+1715377382405,125839,HTTP Request,200,OK,Thread Group 1-75,text,true,,1155748,118,58,58,https://www.daraz.com.bd/,888,0,751
+1715377378486,130027,HTTP Request,200,OK,Thread Group 1-5,text,true,,1154554,118,57,57,https://www.daraz.com.bd/,294,0,218
+1715377380781,127974,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 781,642; actual size: 201,009)",Thread Group 1-46,text,false,,1300,0,56,56,https://www.daraz.com.bd/,2446,0,2311
+1715377378989,129779,HTTP Request,200,OK,Thread Group 1-14,text,true,,1154569,118,55,55,https://www.daraz.com.bd/,538,0,403
+1715377379830,129248,HTTP Request,200,OK,Thread Group 1-29,text,true,,1154605,118,54,54,https://www.daraz.com.bd/,1317,0,398
+1715377381679,128556,HTTP Request,200,OK,Thread Group 1-62,text,true,,1154572,118,53,53,https://www.daraz.com.bd/,6706,0,6570
+1715377378598,132283,HTTP Request,200,OK,Thread Group 1-7,text,true,,1154588,118,52,52,https://www.daraz.com.bd/,292,0,216
+1715377382461,128705,HTTP Request,200,OK,Thread Group 1-76,text,true,,1154574,118,51,51,https://www.daraz.com.bd/,1447,0,1318
+1715377382909,129216,HTTP Request,200,OK,Thread Group 1-84,text,true,,1155756,118,50,50,https://www.daraz.com.bd/,1739,0,1602
+1715377379997,132163,HTTP Request,200,OK,Thread Group 1-32,text,true,,1154572,118,49,49,https://www.daraz.com.bd/,549,0,415
+1715377378822,133353,HTTP Request,200,OK,Thread Group 1-11,text,true,,1154604,118,49,49,https://www.daraz.com.bd/,818,0,684
+1715377383133,129239,HTTP Request,200,OK,Thread Group 1-88,text,true,,1154564,118,47,47,https://www.daraz.com.bd/,2187,0,2046
+1715377382125,131457,HTTP Request,200,OK,Thread Group 1-70,text,true,,1154617,118,46,46,https://www.daraz.com.bd/,2329,0,2181
+1715377380109,133837,HTTP Request,200,OK,Thread Group 1-34,text,true,,1155740,118,45,45,https://www.daraz.com.bd/,15190,0,15060
+1715377379045,135471,HTTP Request,200,OK,Thread Group 1-15,text,true,,1155748,118,44,44,https://www.daraz.com.bd/,694,0,383
+1715377380165,135288,HTTP Request,200,OK,Thread Group 1-35,text,true,,1154601,118,43,43,https://www.daraz.com.bd/,513,0,379
+1715377383189,132327,HTTP Request,200,OK,Thread Group 1-89,text,true,,1154572,118,42,42,https://www.daraz.com.bd/,960,0,409
+1715377381901,134537,HTTP Request,200,OK,Thread Group 1-66,text,true,,1155788,118,41,41,https://www.daraz.com.bd/,1325,0,1001
+1715377381118,135368,HTTP Request,200,OK,Thread Group 1-52,text,true,,1155804,118,40,40,https://www.daraz.com.bd/,508,0,371
+1715377381565,135398,HTTP Request,200,OK,Thread Group 1-60,text,true,,1155755,118,39,39,https://www.daraz.com.bd/,3955,0,3074
+1715377379942,137732,HTTP Request,200,OK,Thread Group 1-31,text,true,,1154569,118,38,38,https://www.daraz.com.bd/,1455,0,1322
+1715377380445,137419,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 934,646; actual size: 428,265)",Thread Group 1-40,text,false,,1300,0,37,37,https://www.daraz.com.bd/,565,0,421
+1715377379885,137984,HTTP Request,200,OK,Thread Group 1-30,text,true,,1154583,118,36,36,https://www.daraz.com.bd/,1383,0,1248
+1715377381454,136806,HTTP Request,200,OK,Thread Group 1-58,text,true,,1155779,118,35,35,https://www.daraz.com.bd/,6489,0,6003
+1715377380726,137796,HTTP Request,200,OK,Thread Group 1-45,text,true,,1154582,118,34,34,https://www.daraz.com.bd/,2219,0,2066
+1715377380052,138739,HTTP Request,200,OK,Thread Group 1-33,text,true,,1154569,118,33,33,https://www.daraz.com.bd/,3291,0,3147
+1715377379157,139929,HTTP Request,200,OK,Thread Group 1-17,text,true,,1154590,118,32,32,https://www.daraz.com.bd/,505,0,364
+1715377380951,138657,HTTP Request,200,OK,Thread Group 1-49,text,true,,1154588,118,31,31,https://www.daraz.com.bd/,3809,0,3680
+1715377379326,140307,HTTP Request,200,OK,Thread Group 1-20,text,true,,1154589,118,30,30,https://www.daraz.com.bd/,644,0,373
+1715377379269,140702,HTTP Request,200,OK,Thread Group 1-19,text,true,,1154604,118,29,29,https://www.daraz.com.bd/,2324,0,2180
+1715377381341,139525,HTTP Request,200,OK,Thread Group 1-56,text,true,,1154607,118,28,28,https://www.daraz.com.bd/,712,0,400
+1715377380670,140341,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 32,768; actual size: 560)",Thread Group 1-44,text,false,,1295,0,27,27,https://www.daraz.com.bd/,9988,0,5049
+1715377378654,143300,HTTP Request,200,OK,Thread Group 1-8,text,true,,1155771,118,26,26,https://www.daraz.com.bd/,768,0,215
+1715377382853,139189,HTTP Request,200,OK,Thread Group 1-83,text,true,,1154587,118,25,25,https://www.daraz.com.bd/,4512,0,3921
+1715377378711,143480,HTTP Request,200,OK,Thread Group 1-9,text,true,,1154599,118,24,24,https://www.daraz.com.bd/,554,0,193
+1715377382237,139976,HTTP Request,200,OK,Thread Group 1-72,text,true,,1154592,118,23,23,https://www.daraz.com.bd/,534,0,397
+1715377382349,139958,HTTP Request,200,OK,Thread Group 1-74,text,true,,1154651,118,22,22,https://www.daraz.com.bd/,1577,0,1430
+1715377379550,143072,HTTP Request,200,OK,Thread Group 1-24,text,true,,1154572,118,21,21,https://www.daraz.com.bd/,1698,0,1559
+1715377382012,140630,HTTP Request,200,OK,Thread Group 1-68,text,true,,1154641,118,20,20,https://www.daraz.com.bd/,539,0,397
+1715377383246,139885,HTTP Request,200,OK,Thread Group 1-90,text,true,,1154581,118,19,19,https://www.daraz.com.bd/,548,0,405
+1715377381737,141498,HTTP Request,200,OK,Thread Group 1-63,text,true,,1154606,118,18,18,https://www.daraz.com.bd/,2667,0,2525
+1715377381286,142033,HTTP Request,200,OK,Thread Group 1-55,text,true,,1155748,118,17,17,https://www.daraz.com.bd/,2030,0,1396
+1715377381006,142474,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 996,403; actual size: 298,462)",Thread Group 1-50,text,false,,1300,0,16,16,https://www.daraz.com.bd/,642,0,350
+1715377381846,141651,HTTP Request,200,OK,Thread Group 1-65,text,true,,1154620,118,15,15,https://www.daraz.com.bd/,2511,0,2370
+1715377382182,141612,HTTP Request,200,OK,Thread Group 1-71,text,true,,1154621,118,14,14,https://www.daraz.com.bd/,1674,0,1536
+1715377379663,144187,HTTP Request,200,OK,Thread Group 1-26,text,true,,1154561,118,13,13,https://www.daraz.com.bd/,1459,0,1347
+1715377382741,141619,HTTP Request,200,OK,Thread Group 1-81,text,true,,1154676,118,12,12,https://www.daraz.com.bd/,1099,0,361
+1715377383022,142069,HTTP Request,200,OK,Thread Group 1-86,text,true,,1154611,118,11,11,https://www.daraz.com.bd/,5832,0,5696
+1715377380335,144991,HTTP Request,200,OK,Thread Group 1-38,text,true,,1154598,118,10,10,https://www.daraz.com.bd/,1507,0,1363
+1715377381174,144166,HTTP Request,200,OK,Thread Group 1-53,text,true,,1155748,118,9,9,https://www.daraz.com.bd/,529,0,392
+1715377381956,143676,HTTP Request,200,OK,Thread Group 1-67,text,true,,1155748,118,8,8,https://www.daraz.com.bd/,682,0,385
+1715377378430,147475,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,007,441; actual size: 398,876)",Thread Group 1-4,text,false,,1302,0,7,7,https://www.daraz.com.bd/,268,0,196
+1715377382573,144349,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,013,038; actual size: 433,869)",Thread Group 1-78,text,false,,1302,0,6,6,https://www.daraz.com.bd/,915,0,397
+1715377379437,157418,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 858,886; actual size: 594,673)",Thread Group 1-22,text,false,,1300,0,5,5,https://www.daraz.com.bd/,7163,0,6617
+1715377379104,159055,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 860,078; actual size: 607,073)",Thread Group 1-16,text,false,,1300,0,4,4,https://www.daraz.com.bd/,820,0,338
+1715377381062,160550,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 944,023; actual size: 628,037)",Thread Group 1-51,text,false,,1300,0,3,3,https://www.daraz.com.bd/,571,0,427
+1715377380501,170024,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 990,830; actual size: 266,069)",Thread Group 1-41,text,false,,1300,0,2,2,https://www.daraz.com.bd/,541,0,405
+1715377379717,310296,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Socket closed,Thread Group 1-27,text,false,,2568,0,1,1,https://www.daraz.com.bd/,1101,0,566
+1715377701807,74298,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 57,336; actual size: 43,074)",Thread Group 1-35,text,false,,1298,0,100,100,https://www.daraz.com.bd/,1443,0,1295
+1715377703307,79017,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,016,923; actual size: 66,759)",Thread Group 1-65,text,false,,1301,0,99,99,https://www.daraz.com.bd/,2130,0,1989
+1715377701757,88903,HTTP Request,200,OK,Thread Group 1-34,text,true,,1154601,118,98,98,https://www.daraz.com.bd/,2799,0,2653
+1715377700258,90923,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,012,769; actual size: 62,597)",Thread Group 1-4,text,false,,1301,0,97,97,https://www.daraz.com.bd/,427,0,355
+1715377700107,94884,HTTP Request,200,OK,Thread Group 1-1,text,true,,1154548,118,96,96,https://www.daraz.com.bd/,603,0,523
+1715377702005,93629,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,040,401; actual size: 4,832)",Thread Group 1-39,text,false,,1300,0,95,95,https://www.daraz.com.bd/,506,0,367
+1715377700557,96024,HTTP Request,200,OK,Thread Group 1-10,text,true,,1154611,118,94,94,https://www.daraz.com.bd/,343,0,216
+1715377704557,95417,HTTP Request,200,OK,Thread Group 1-90,text,true,,1154692,118,93,93,https://www.daraz.com.bd/,1900,0,1765
+1715377700206,101238,HTTP Request,200,OK,Thread Group 1-3,text,true,,1154564,118,92,92,https://www.daraz.com.bd/,522,0,435
+1715377700605,102769,HTTP Request,200,OK,Thread Group 1-11,text,true,,1154780,118,91,91,https://www.daraz.com.bd/,694,0,557
+1715377700306,105385,HTTP Request,200,OK,Thread Group 1-5,text,true,,1154579,118,90,90,https://www.daraz.com.bd/,384,0,311
+1715377702307,105549,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 57,336; actual size: 25,895)",Thread Group 1-45,text,false,,1298,0,89,89,https://www.daraz.com.bd/,6361,0,6219
+1715377702705,106420,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 65,527; actual size: 27,931)",Thread Group 1-53,text,false,,1298,0,88,88,https://www.daraz.com.bd/,545,0,405
+1715377701358,107857,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 49,143; actual size: 6,152)",Thread Group 1-26,text,false,,1297,0,87,87,https://www.daraz.com.bd/,1692,0,1553
+1715377704957,104998,HTTP Request,200,OK,Thread Group 1-98,text,true,,1154587,118,86,86,https://www.daraz.com.bd/,3723,0,3219
+1715377701258,111014,HTTP Request,200,OK,Thread Group 1-24,text,true,,1154612,118,85,85,https://www.daraz.com.bd/,3610,0,3003
+1715377701107,111459,HTTP Request,200,OK,Thread Group 1-21,text,true,,1154586,118,84,84,https://www.daraz.com.bd/,2330,0,1782
+1715377701208,112728,HTTP Request,200,OK,Thread Group 1-23,text,true,,1154554,118,83,83,https://www.daraz.com.bd/,6585,0,5638
+1715377700905,114154,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 32,759; actual size: 6,136)",Thread Group 1-17,text,false,,1297,0,82,82,https://www.daraz.com.bd/,1318,0,1179
+1715377704918,110521,HTTP Request,200,OK,Thread Group 1-97,text,true,,1154568,118,81,81,https://www.daraz.com.bd/,547,0,396
+1715377703456,112601,HTTP Request,200,OK,Thread Group 1-68,text,true,,1154572,118,80,80,https://www.daraz.com.bd/,2202,0,2075
+1715377700757,115780,HTTP Request,200,OK,Thread Group 1-14,text,true,,1154610,118,79,79,https://www.daraz.com.bd/,6096,0,5953
+1715377700456,116216,HTTP Request,200,OK,Thread Group 1-8,text,true,,1154585,118,78,78,https://www.daraz.com.bd/,302,0,214
+1715377705007,112513,HTTP Request,200,OK,Thread Group 1-99,text,true,,1154572,118,77,77,https://www.daraz.com.bd/,546,0,406
+1715377702805,114905,HTTP Request,200,OK,Thread Group 1-55,text,true,,1154731,118,76,76,https://www.daraz.com.bd/,6132,0,2948
+1715377704806,113185,HTTP Request,200,OK,Thread Group 1-95,text,true,,1154594,118,75,75,https://www.daraz.com.bd/,1746,0,1606
+1715377700357,118675,HTTP Request,200,OK,Thread Group 1-6,text,true,,1154595,118,74,74,https://www.daraz.com.bd/,365,0,285
+1715377703105,115931,HTTP Request,200,OK,Thread Group 1-61,text,true,,1154587,118,73,73,https://www.daraz.com.bd/,942,0,802
+1715377704256,114847,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 689,585; actual size: 171,917)",Thread Group 1-84,text,false,,1300,0,72,72,https://www.daraz.com.bd/,5157,0,5023
+1715377703006,116588,HTTP Request,200,OK,Thread Group 1-59,text,true,,1154569,118,71,71,https://www.daraz.com.bd/,563,0,419
+1715377701058,119540,HTTP Request,200,OK,Thread Group 1-20,text,true,,1154652,118,70,70,https://www.daraz.com.bd/,1519,0,1388
+1715377700656,120193,HTTP Request,200,OK,Thread Group 1-12,text,true,,1154577,118,69,69,https://www.daraz.com.bd/,392,0,254
+1715377702057,119602,HTTP Request,200,OK,Thread Group 1-40,text,true,,1154596,118,68,68,https://www.daraz.com.bd/,894,0,389
+1715377701158,120877,HTTP Request,200,OK,Thread Group 1-22,text,true,,1154609,118,67,67,https://www.daraz.com.bd/,2247,0,1741
+1715377704155,118732,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,002,049; actual size: 114,885)",Thread Group 1-82,text,false,,1302,0,66,66,https://www.daraz.com.bd/,1513,0,1385
+1715377703407,119736,HTTP Request,200,OK,Thread Group 1-67,text,true,,1154640,118,65,65,https://www.daraz.com.bd/,16916,0,15977
+1715377703905,119904,HTTP Request,200,OK,Thread Group 1-77,text,true,,1154603,118,64,64,https://www.daraz.com.bd/,556,0,405
+1715377704206,119732,HTTP Request,200,OK,Thread Group 1-83,text,true,,1154563,118,63,63,https://www.daraz.com.bd/,1447,0,925
+1715377702356,121819,HTTP Request,200,OK,Thread Group 1-46,text,true,,1154592,118,62,62,https://www.daraz.com.bd/,551,0,411
+1715377700856,123349,HTTP Request,200,OK,Thread Group 1-16,text,true,,1154593,118,61,61,https://www.daraz.com.bd/,2051,0,1920
+1715377703558,120882,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,003,984; actual size: 179,821)",Thread Group 1-70,text,false,,1302,0,60,60,https://www.daraz.com.bd/,555,0,414
+1715377704508,119979,HTTP Request,200,OK,Thread Group 1-89,text,true,,1154570,118,59,59,https://www.daraz.com.bd/,854,0,717
+1715377703256,121387,HTTP Request,200,OK,Thread Group 1-64,text,true,,1154568,118,58,58,https://www.daraz.com.bd/,3369,0,3237
+1715377701707,122986,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,007,249; actual size: 171,870)",Thread Group 1-33,text,false,,1302,0,57,57,https://www.daraz.com.bd/,5156,0,4992
+1715377702907,122027,HTTP Request,200,OK,Thread Group 1-57,text,true,,1154556,118,56,56,https://www.daraz.com.bd/,546,0,411
+1715377701957,123201,HTTP Request,200,OK,Thread Group 1-38,text,true,,1154569,118,55,55,https://www.daraz.com.bd/,638,0,364
+1715377703706,121935,HTTP Request,200,OK,Thread Group 1-73,text,true,,1154604,118,54,54,https://www.daraz.com.bd/,1706,0,1399
+1715377701608,124200,HTTP Request,200,OK,Thread Group 1-31,text,true,,1154595,118,53,53,https://www.daraz.com.bd/,2598,0,1836
+1715377702456,123458,HTTP Request,200,OK,Thread Group 1-48,text,true,,1154586,118,52,52,https://www.daraz.com.bd/,1561,0,1422
+1715377704306,121659,HTTP Request,200,OK,Thread Group 1-85,text,true,,1154570,118,51,51,https://www.daraz.com.bd/,3513,0,2981
+1715377704356,122853,HTTP Request,200,OK,Thread Group 1-86,text,true,,1154562,118,50,50,https://www.daraz.com.bd/,1679,0,1383
+1715377704758,122880,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 57,336; actual size: 23,758)",Thread Group 1-94,text,false,,1298,0,49,49,https://www.daraz.com.bd/,888,0,373
+1715377701307,126345,HTTP Request,200,OK,Thread Group 1-25,text,true,,1154602,118,48,48,https://www.daraz.com.bd/,23869,0,23332
+1715377700957,127763,HTTP Request,200,OK,Thread Group 1-18,text,true,,1154604,118,47,47,https://www.daraz.com.bd/,2468,0,1936
+1715377704856,124493,HTTP Request,200,OK,Thread Group 1-96,text,true,,1154617,118,46,46,https://www.daraz.com.bd/,517,0,376
+1715377700155,129284,HTTP Request,200,OK,Thread Group 1-2,text,true,,1154633,118,45,45,https://www.daraz.com.bd/,535,0,461
+1715377702405,127963,HTTP Request,200,OK,Thread Group 1-47,text,true,,1154610,118,44,44,https://www.daraz.com.bd/,5222,0,4670
+1715377701408,129800,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,005,742; actual size: 181,577)",Thread Group 1-27,text,false,,1302,0,43,43,https://www.daraz.com.bd/,1528,0,1394
+1715377701907,129834,HTTP Request,200,OK,Thread Group 1-37,text,true,,1154666,118,42,42,https://www.daraz.com.bd/,544,0,396
+1715377702107,129994,HTTP Request,200,OK,Thread Group 1-41,text,true,,1154554,118,41,41,https://www.daraz.com.bd/,577,0,433
+1715377702256,130300,HTTP Request,200,OK,Thread Group 1-44,text,true,,1154642,118,40,40,https://www.daraz.com.bd/,13526,0,13373
+1715377702756,130538,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,013,556; actual size: 178,201)",Thread Group 1-54,text,false,,1302,0,39,39,https://www.daraz.com.bd/,3116,0,2627
+1715377701657,131863,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 1,020,130; actual size: 187,550)",Thread Group 1-32,text,false,,1302,0,38,38,https://www.daraz.com.bd/,3824,0,3691
+1715377704656,129102,HTTP Request,200,OK,Thread Group 1-92,text,true,,1154602,118,37,37,https://www.daraz.com.bd/,7884,0,6575
+1715377704457,129424,HTTP Request,200,OK,Thread Group 1-88,text,true,,1154580,118,36,36,https://www.daraz.com.bd/,2972,0,2649
+1715377701507,132746,HTTP Request,200,OK,Thread Group 1-29,text,true,,1154610,118,35,35,https://www.daraz.com.bd/,1552,0,1405
+1715377704058,130593,HTTP Request,200,OK,Thread Group 1-80,text,true,,1154571,118,34,34,https://www.daraz.com.bd/,2354,0,1410
+1715377700506,134350,HTTP Request,200,OK,Thread Group 1-9,text,true,,1154585,118,33,33,https://www.daraz.com.bd/,301,0,222
+1715377701856,133498,HTTP Request,200,OK,Thread Group 1-36,text,true,,1154594,118,32,32,https://www.daraz.com.bd/,1226,0,728
+1715377702506,132895,HTTP Request,200,OK,Thread Group 1-49,text,true,,1154588,118,31,31,https://www.daraz.com.bd/,1384,0,1234
+1715377701007,134911,HTTP Request,200,OK,Thread Group 1-19,text,true,,1154635,118,30,30,https://www.daraz.com.bd/,530,0,396
+1715377703956,132033,HTTP Request,200,OK,Thread Group 1-78,text,true,,1154579,118,29,29,https://www.daraz.com.bd/,556,0,408
+1715377703657,134615,HTTP Request,200,OK,Thread Group 1-72,text,true,,1154633,118,28,28,https://www.daraz.com.bd/,3471,0,3334
+1715377700808,137552,HTTP Request,200,OK,Thread Group 1-15,text,true,,1154602,118,27,27,https://www.daraz.com.bd/,1496,0,1381
+1715377704722,134709,HTTP Request,200,OK,Thread Group 1-93,text,true,,1154560,118,26,26,https://www.daraz.com.bd/,1188,0,1051
+1715377703608,137060,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 49,144; actual size: 10,142)",Thread Group 1-71,text,false,,1298,0,25,25,https://www.daraz.com.bd/,11873,0,11678
+1715377703507,137306,HTTP Request,200,OK,Thread Group 1-69,text,true,,1154594,118,24,24,https://www.daraz.com.bd/,3304,0,1697
+1715377703056,137872,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 870,849; actual size: 356,047)",Thread Group 1-60,text,false,,1300,0,23,23,https://www.daraz.com.bd/,2742,0,2600
+1715377700706,140421,HTTP Request,200,OK,Thread Group 1-13,text,true,,1154603,118,22,22,https://www.daraz.com.bd/,2943,0,2786
+1715377703757,137809,HTTP Request,200,OK,Thread Group 1-74,text,true,,1154588,118,21,21,https://www.daraz.com.bd/,3372,0,3238
+1715377702955,138823,HTTP Request,200,OK,Thread Group 1-58,text,true,,1154562,118,20,20,https://www.daraz.com.bd/,554,0,416
+1715377702556,139251,HTTP Request,200,OK,Thread Group 1-50,text,true,,1154586,118,19,19,https://www.daraz.com.bd/,1525,0,1389
+1715377704606,137445,HTTP Request,200,OK,Thread Group 1-91,text,true,,1154586,118,18,18,https://www.daraz.com.bd/,2169,0,1363
+1715377704407,137799,HTTP Request,200,OK,Thread Group 1-87,text,true,,1154591,118,17,17,https://www.daraz.com.bd/,6824,0,6212
+1715377702856,139632,HTTP Request,200,OK,Thread Group 1-56,text,true,,1154563,118,16,16,https://www.daraz.com.bd/,500,0,372
+1715377702655,140415,HTTP Request,200,OK,Thread Group 1-52,text,true,,1154641,118,15,15,https://www.daraz.com.bd/,3316,0,1872
+1715377703857,139412,HTTP Request,200,OK,Thread Group 1-76,text,true,,1154569,118,14,14,https://www.daraz.com.bd/,2028,0,1718
+1715377703807,139707,HTTP Request,200,OK,Thread Group 1-75,text,true,,1154555,118,13,13,https://www.daraz.com.bd/,3414,0,3285
+1715377704108,139513,HTTP Request,200,OK,Thread Group 1-81,text,true,,1154571,118,12,12,https://www.daraz.com.bd/,540,0,404
+1715377701557,144962,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 942,575; actual size: 299,002)",Thread Group 1-30,text,false,,1300,0,11,11,https://www.daraz.com.bd/,4831,0,4688
+1715377702156,144557,HTTP Request,200,OK,Thread Group 1-42,text,true,,1154588,118,10,10,https://www.daraz.com.bd/,504,0,371
+1715377705056,147319,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 892,947; actual size: 375,352)",Thread Group 1-100,text,false,,1300,0,9,9,https://www.daraz.com.bd/,1433,0,1291
+1715377702606,153456,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 920,805; actual size: 286,994)",Thread Group 1-51,text,false,,1300,0,8,8,https://www.daraz.com.bd/,1134,0,806
+1715377700407,162911,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 854,309; actual size: 94,486)",Thread Group 1-7,text,false,,1299,0,7,7,https://www.daraz.com.bd/,299,0,219
+1715377703157,179660,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 810,599; actual size: 621,982)",Thread Group 1-62,text,false,,1300,0,6,6,https://www.daraz.com.bd/,1985,0,1864
+1715377703357,180955,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 804,613; actual size: 477,385)",Thread Group 1-66,text,false,,1300,0,5,5,https://www.daraz.com.bd/,1814,0,1010
+1715377702205,184291,HTTP Request,200,OK,Thread Group 1-43,text,true,,1154569,118,4,4,https://www.daraz.com.bd/,512,0,376
+1715377704007,197971,HTTP Request,Non HTTP response code: org.apache.http.TruncatedChunkException,"Non HTTP response message: Truncated chunk (expected size: 948,432; actual size: 303,444)",Thread Group 1-79,text,false,,1300,0,3,3,https://www.daraz.com.bd/,9583,0,9443
+1715377701458,202140,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-28,text,false,,2499,0,2,2,https://www.daraz.com.bd/,5981,0,5838
+1715377703208,205081,HTTP Request,Non HTTP response code: java.net.SocketException,Non HTTP response message: Connection reset,Thread Group 1-63,text,false,,2499,0,1,1,https://www.daraz.com.bd/,5950,0,5803
